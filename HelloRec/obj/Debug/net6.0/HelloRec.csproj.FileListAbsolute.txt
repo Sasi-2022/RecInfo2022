@@ -1,0 +1,15 @@
+C:\Users\hp\RecInfo2022\HelloRec\bin\Debug\net6.0\HelloRec.exe
+C:\Users\hp\RecInfo2022\HelloRec\bin\Debug\net6.0\HelloRec.deps.json
+C:\Users\hp\RecInfo2022\HelloRec\bin\Debug\net6.0\HelloRec.runtimeconfig.json
+C:\Users\hp\RecInfo2022\HelloRec\bin\Debug\net6.0\HelloRec.dll
+C:\Users\hp\RecInfo2022\HelloRec\bin\Debug\net6.0\HelloRec.pdb
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\HelloRec.csproj.AssemblyReference.cache
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\HelloRec.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\HelloRec.AssemblyInfoInputs.cache
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\HelloRec.AssemblyInfo.cs
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\HelloRec.csproj.CoreCompileInputs.cache
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\HelloRec.dll
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\refint\HelloRec.dll
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\HelloRec.pdb
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\HelloRec.genruntimeconfig.cache
+C:\Users\hp\RecInfo2022\HelloRec\obj\Debug\net6.0\ref\HelloRec.dll
