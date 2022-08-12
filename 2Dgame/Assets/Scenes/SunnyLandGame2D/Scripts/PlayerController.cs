@@ -58,11 +58,12 @@ namespace SunnyGame
 
         private void OnCollisionEnter2D(Collision2D other)
         {
+            Frog frog = other.gameObject.GetComponent<Frog>();
             if (other.gameObject.tag == "Enemy")
             {
                 if (state == State.falling)
                 {
-                    Destroy(other.gameObject);
+                    frog.JumpedOn();
                     Jump();
                 }
                 else 
@@ -106,6 +107,7 @@ namespace SunnyGame
 
             //Jumping
             if (Input.GetButtonDown("Jump") && coll.IsTouchingLayers(ground))
+
             {
                 Jump();
             }
