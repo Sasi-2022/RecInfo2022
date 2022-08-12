@@ -6,18 +6,18 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 0
-    path: Assets/PongGame/Menu.unity
+    path: Assets/Scenes/PongGame2D/PongGame/Menu.unity
     guid: cc40badbf22bf9740b42174e78fff3cc
   - enabled: 0
-    path: Assets/PongGame/PongGame.unity
+    path: Assets/Scenes/PongGame2D/PongGame/PongGame.unity
     guid: eff0bfe76efabd14e9dde3e079fc43be
   - enabled: 0
-    path: Assets/PongGame/Player_1_Wins.unity
+    path: Assets/Scenes/PongGame2D/PongGame/Player_1_Wins.unity
     guid: 98abec4965d5c52408e7ed3e5c334dbe
   - enabled: 0
-    path: Assets/PongGame/Player_2_Wins.unity
+    path: Assets/Scenes/PongGame2D/PongGame/Player_2_Wins.unity
     guid: 6f792300f55a62d4ca64f5bb97e608a3
   - enabled: 1
-    path: Assets/SunnyLandGame2D/demo.unity
+    path: Assets/Scenes/SunnyLandGame2D/demo.unity
     guid: 92cb22b9b349fc145b4b2ce9d409a4c2
   m_configObjects: {}
